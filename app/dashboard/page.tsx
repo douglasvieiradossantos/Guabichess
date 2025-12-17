@@ -45,7 +45,7 @@ export default async function DashboardPage() {
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2 text-xl font-bold text-primary">
               <Crown className="h-6 w-6" />
-              XadrezMestre
+              ClubedeXadrezGuabiruba
             </Link>
 
             <div className="flex items-center gap-4">
