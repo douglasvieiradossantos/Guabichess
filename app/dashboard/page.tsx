@@ -44,10 +44,11 @@ export default async function DashboardPage() {
       <header className="border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-2 text-xl font-bold text-primary">
-              <Crown className="h-6 w-6" />
-              ClubedeXadrezGuabiruba
-            </Link>
+           <Link href="/" className="flex items-center gap-2 text-xl font-bold text-primary">
+  <Image src="/logoguaba.png" alt="Guabichess" width={24} height={24} />
+  Guabichess
+</Link>
+
 
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-3">
